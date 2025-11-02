@@ -41,7 +41,7 @@ Yididiya Tewdros — 1517/15
 
 🔗 Project Links  
 
-**Figma Design Board:** [View Figma Prototype]([https://www.figma.com/--](https://www.figma.com/design/ohB59C8O9gmjZ7XgubhEGL/Expense-Tracker-.MAD.project?node-id=0-1&p=f&m=draw)  
+**Figma Design Board:** [View Figma Prototype](https://www.figma.com/design/ohB59C8O9gmjZ7XgubhEGL/Expense-Tracker-.MAD.project?node-id=0-1&t=DxjPttjTvgVHNk95-1)  
 **Jira Project Board:** [View Jira Project](https://abinettargaw.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog)  
 
 Summary  
